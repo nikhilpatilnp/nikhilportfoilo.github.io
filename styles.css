@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+  }
+  .content {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(55deg, #3498db, #090707);
+    color: white;
+    text-align: center;
+  }
+  
+  .body h1{
+    color: white;
+    align-items: normal;
+  }
+  .body p{
+    align-items: center;
+    color: white;
+  }
+  
+ 
+  
+  
+  
